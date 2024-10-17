@@ -3,6 +3,16 @@ C++ and SDL studying project
 It is just a simple project I made when I was studying C++ by following YouTube tutorial and adapted in my own ways.
 
 Before you run the project for the first time, please do as following.
+Opening game
+1. Open "x64" folder.
+2. ![image](https://github.com/user-attachments/assets/df1105de-5216-430e-a011-e4a46fe14ef0)
+3. Open "Debug" folder.
+4. ![image](https://github.com/user-attachments/assets/fa363f7b-f75c-4291-946c-1f6c5b4643ad)
+5. Double click on "SpaceGame" to run the game application.
+6. ![image](https://github.com/user-attachments/assets/7803ce6a-a060-468c-b3c0-400724e00533)
+7. Enjoy space travelling!!
+8. ![image](https://github.com/user-attachments/assets/21f5e91e-5a77-4f02-9c0f-6b2115c36b41)
+
 
 Setting up
 1. Open project properties page by right click on <Project Name> -> Properties
