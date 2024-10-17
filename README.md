@@ -1,5 +1,6 @@
 # Space
 C++ and SDL studying project
+It is just a simple project I made when I was studying C++ by following YouTube tutorial and adapted in my own ways.
 
 Before you run the project for the first time, please do as following.
 
