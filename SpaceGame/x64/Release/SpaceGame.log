@@ -1,0 +1,16 @@
+﻿  AssetManager.cpp
+P:\U-Games C++\Games\SpaceGame\SpaceGame\src\Game.h(3,10): error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Collision.cpp
+P:\U-Games C++\Games\SpaceGame\SpaceGame\src\Collision.h(2,10): error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  ECS.cpp
+  Game.cpp
+P:\U-Games C++\Games\SpaceGame\SpaceGame\src\Game.h(3,10): error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  GameObject.cpp
+P:\U-Games C++\Games\SpaceGame\SpaceGame\src\Game.h(3,10): error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  main.cpp
+P:\U-Games C++\Games\SpaceGame\SpaceGame\src\main.cpp(1,10): error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Map.cpp
+P:\U-Games C++\Games\SpaceGame\SpaceGame\src\Game.h(3,10): error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  TextureManager.cpp
+P:\U-Games C++\Games\SpaceGame\SpaceGame\src\Game.h(3,10): error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Vector2D.cpp
