@@ -108,12 +108,12 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>P:\U-Games C++\Game Projects\SpaceGame\Libraries\SDL2_image-2.8.2\include;P:\U-Games C++\Game Projects\SpaceGame\Libraries\SDL2\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>P:\U-Games C++\Game Projects\Space\Libraries\SDL2_image-2.8.2\include;P:\U-Games C++\Game Projects\Space\Libraries\SDL2\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalLibraryDirectories>P:\U-Games C++\Game Projects\SpaceGame\Libraries\SDL2_image-2.8.2\lib\x64;P:\U-Games C++\Game Projects\SpaceGame\Libraries\SDL2\lib\x64;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>P:\U-Games C++\Game Projects\Space\Libraries\SDL2_image-2.8.2\lib\x64;P:\U-Games C++\Game Projects\Space\Libraries\SDL2\lib\x64;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <AdditionalDependencies>SDL2.lib;SDL2main.lib;SDL2_image.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
